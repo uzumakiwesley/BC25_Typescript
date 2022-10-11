@@ -1,2 +1,0 @@
-# BC25-Typescript
-
